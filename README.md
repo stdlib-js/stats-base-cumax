@@ -177,6 +177,24 @@ console.log( y );
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/stats/base/cumin`][@stdlib/stats/base/cumin]: calculate the cumulative minimum of a strided array.
+-   [`@stdlib/stats/base/dcumax`][@stdlib/stats/base/dcumax]: calculate the cumulative maximum of double-precision floating-point strided array elements.
+-   [`@stdlib/stats/base/scumax`][@stdlib/stats/base/scumax]: calculate the cumulative maximum of single-precision floating-point strided array elements.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -236,9 +254,15 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 
 [mdn-typed-array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
 
+<!-- <related-links> -->
+
+[@stdlib/stats/base/cumin]: https://github.com/stdlib-js/stats-base-cumin
+
 [@stdlib/stats/base/dcumax]: https://github.com/stdlib-js/stats-base-dcumax
 
 [@stdlib/stats/base/scumax]: https://github.com/stdlib-js/stats-base-scumax
+
+<!-- </related-links> -->
 
 </section>
 
