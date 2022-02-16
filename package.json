@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-cumax",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Calculate the cumulative maximum of a strided array.",
   "license": "Apache-2.0",
   "author": {
