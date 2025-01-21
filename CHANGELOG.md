@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-20)
+## Unreleased (2025-01-21)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`902977d`](https://github.com/stdlib-js/stdlib/commit/902977d7e637a7dfb1704fc4caa8fc3913d3246d) - **docs:** update related packages sections [(#4825)](https://github.com/stdlib-js/stdlib/pull/4825) _(by stdlib-bot)_
 -   [`7fdd232`](https://github.com/stdlib-js/stdlib/commit/7fdd232cf5861d0f25fad1a23d05143211e84d92) - **refactor:** update paths _(by aayush0325)_
 
 </details>
