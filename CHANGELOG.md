@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-29)
+## Unreleased (2025-04-11)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`799acef`](https://github.com/stdlib-js/stdlib/commit/799acef18a6b083622f677d136a424b1db112336) - **chore:** clean-up _(by Athan Reines)_
 -   [`a1b7394`](https://github.com/stdlib-js/stdlib/commit/a1b73948f39911b1e2b603f4e91395a47d0f0cee) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`11f1341`](https://github.com/stdlib-js/stdlib/commit/11f1341134c5d6c7c0ecd82c99dff766e08e731a) - **feat:** add support for accessor arrays and refactor `stats/base/cumax` _(by Vivek Maurya, stdlib-bot)_
 -   [`902977d`](https://github.com/stdlib-js/stdlib/commit/902977d7e637a7dfb1704fc4caa8fc3913d3246d) - **docs:** update related packages sections [(#4825)](https://github.com/stdlib-js/stdlib/pull/4825) _(by stdlib-bot)_
@@ -37,9 +38,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
+-   Athan Reines
 -   Vivek Maurya
 
 </section>
