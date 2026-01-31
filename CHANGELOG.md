@@ -2,15 +2,15 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-07-10)
+## 0.3.0 (2026-01-31)
 
 <section class="features">
 
 ### Features
 
--   [`11f1341`](https://github.com/stdlib-js/stdlib/commit/11f1341134c5d6c7c0ecd82c99dff766e08e731a) - add support for accessor arrays and refactor `stats/base/cumax`
+-   [`11f1341`](https://github.com/stdlib-js/stdlib/commit/11f1341134c5d6c7c0ecd82c99dff766e08e731a) - add support for accessor arrays and refactor `stats/base/cumax` [(#5225)](https://github.com/stdlib-js/stdlib/pull/5225)
 
 </section>
 
@@ -34,10 +34,12 @@ This release closes the following issue:
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
+-   [`445837e`](https://github.com/stdlib-js/stdlib/commit/445837e40421e2fae48eaa8e02c55723d3323722) - **docs:** fix TSDoc example annotations and remove unwanted parenthesis _(by Philipp Burckhardt)_
 -   [`fd2955b`](https://github.com/stdlib-js/stdlib/commit/fd2955b528f74743158831eb4c8878389c9a35a9) - **test:** update type expectations in `stats/base/cumax` [(#7609)](https://github.com/stdlib-js/stdlib/pull/7609) _(by Deepak Singh)_
 -   [`799acef`](https://github.com/stdlib-js/stdlib/commit/799acef18a6b083622f677d136a424b1db112336) - **chore:** clean-up _(by Athan Reines)_
 -   [`a1b7394`](https://github.com/stdlib-js/stdlib/commit/a1b73948f39911b1e2b603f4e91395a47d0f0cee) - **refactor:** update paths _(by Aayush Khanna)_
--   [`11f1341`](https://github.com/stdlib-js/stdlib/commit/11f1341134c5d6c7c0ecd82c99dff766e08e731a) - **feat:** add support for accessor arrays and refactor `stats/base/cumax` _(by Vivek Maurya, stdlib-bot)_
+-   [`11f1341`](https://github.com/stdlib-js/stdlib/commit/11f1341134c5d6c7c0ecd82c99dff766e08e731a) - **feat:** add support for accessor arrays and refactor `stats/base/cumax` [(#5225)](https://github.com/stdlib-js/stdlib/pull/5225) _(by Vivek Maurya, Athan Reines, stdlib-bot)_
 -   [`902977d`](https://github.com/stdlib-js/stdlib/commit/902977d7e637a7dfb1704fc4caa8fc3913d3246d) - **docs:** update related packages sections [(#4825)](https://github.com/stdlib-js/stdlib/pull/4825) _(by stdlib-bot)_
 -   [`7fdd232`](https://github.com/stdlib-js/stdlib/commit/7fdd232cf5861d0f25fad1a23d05143211e84d92) - **refactor:** update paths _(by Aayush Khanna)_
 
@@ -51,11 +53,12 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
 -   Deepak Singh
+-   Philipp Burckhardt
 -   Vivek Maurya
 
 </section>
